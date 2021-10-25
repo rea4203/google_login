@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700301098286",
+    "project_id": "login-fa79b",
+    "storage_bucket": "login-fa79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700301098286:android:6518200a3dfcf1baee4ebf",
+        "android_client_info": {
+          "package_name": "com.example.google_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700301098286-ka1mp2m27n5ffto9pk93bm82b3ekh8ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYrVaW5H5N0F38sCE2CVwsRTMf5KAy9gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700301098286-ka1mp2m27n5ffto9pk93bm82b3ekh8ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
